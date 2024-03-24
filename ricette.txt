@@ -1,0 +1,8 @@
+padellino uovo 1 
+frittata olio 0.3
+frittata uovo 1
+padellino olio 0.2
+coque uovo 1
+frittata parmigiano 0.2
+scapece zucchina 1
+scapece olio 0.3
